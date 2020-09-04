@@ -20,7 +20,7 @@ def dumper(brand='huawei'):
     scrapes Huawei devices md into yaml and json
     """
     DEVICES = {}
-    data = get("https://raw.githubusercontent.com/KHwang9883/MobileModels/" +
+    data = get("https://raw.githubusercontent.com/emuibot/MobileModels/" +
                f"master/brands/{brand}.md").text
     data = [i for i in data.splitlines() if not str(i).startswith('#') and i]
     data = '\n'.join(data).replace('\n\n', '\n').replace('\n\n', '\n')
