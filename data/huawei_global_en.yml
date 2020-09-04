@@ -22,6 +22,10 @@ ALP-L29:
   codename: alps
   model_name: HUAWEI Mate 10 Dual SIM
   name: HUAWEI Mate 10
+AMN-LX9:
+  codename: ''
+  model_name: Huawei Y5 (2019)
+  name: Huawei Y5
 ANA-NX9:
   codename: anna
   model_name: HUAWEI P40 Dual SIM
@@ -106,6 +110,10 @@ CDY-NX9:
   codename: cindy
   model_name: HUAWEI nova 7 SE 5G
   name: HUAWEI nova 7 SE
+CHC-U01:
+  codename: ''
+  model_name: Huawei G Play Mini (2015)
+  name: Huawei G Play Mini
 CLT-L04:
   codename: charlotte
   model_name: HUAWEI P20 Pro Single SIM
@@ -126,6 +134,10 @@ CRR-UL00:
   codename: carrera
   model_name: HUAWEI Mate S Dual SIM
   name: HUAWEI Mate S
+DUB-LX1:
+  codename: dubai
+  model_name: HUAWEI Y7 2019
+  name: HUAWEI Y7 2019
 ELE-L09:
   codename: elle
   model_name: HUAWEI P30 Single SIM
@@ -170,6 +182,10 @@ EVR-N29:
   codename: ever
   model_name: HUAWEI Mate 20 X 5G Dual SIM
   name: HUAWEI Mate 20 X
+FIG-L11:
+  codename: figo
+  model_name: HUAWEI P Smart
+  name: HUAWEI P Smart
 FIG-LA1:
   codename: figo
   model_name: HUAWEI P Smart
@@ -206,6 +222,10 @@ HMA-L29:
   codename: hima
   model_name: HUAWEI Mate 20 Dual SIM
   name: HUAWEI Mate 20
+INE-L22:
+  codename: sydney
+  model_name: HUAWEI P Smart+
+  name: HUAWEI P Smart+
 INE-LX1:
   codename: sydneyi
   model_name: HUAWEI nova 3i
@@ -262,6 +282,10 @@ LYA-L29:
   codename: laya
   model_name: PORSCHE DESIGN HUAWEI Mate 20 RS Dual SIM
   name: PORSCHE DESIGN HUAWEI Mate 20 RS
+MAR-L21A:
+  codename: marie
+  model_name: HUAWEI P30 lite
+  name: HUAWEI P30 lite
 MAR-LX1A:
   codename: marie
   model_name: HUAWEI P30 lite
@@ -319,29 +343,37 @@ MHA-L29:
   model_name: HUAWEI Mate 9 Dual SIM
   name: HUAWEI Mate 9
 MLA-L01:
-  codename: ''
+  codename: milan
   model_name: HUAWEI nova Plus
   name: HUAWEI nova Plus
 MLA-L02:
-  codename: ''
+  codename: milan
   model_name: HUAWEI nova Plus
   name: HUAWEI nova Plus
 MLA-L03:
-  codename: ''
+  codename: milan
   model_name: HUAWEI nova Plus
   name: HUAWEI nova Plus
 MLA-L11:
-  codename: ''
+  codename: milan
   model_name: HUAWEI nova Plus
   name: HUAWEI nova Plus
 MLA-L12:
-  codename: ''
+  codename: milan
   model_name: HUAWEI nova Plus
   name: HUAWEI nova Plus
 MLA-L13:
-  codename: ''
+  codename: milan
   model_name: HUAWEI nova Plus
   name: HUAWEI nova Plus
+MRD-L41:
+  codename: madrid
+  model_name: HUAWEI Y6 2019
+  name: HUAWEI Y6 2019
+MRD-LX1F:
+  codename: madrid
+  model_name: HUAWEI Y6 2019
+  name: HUAWEI Y6 2019
 MT7-L09:
   codename: jazz
   model_name: HUAWEI Ascend Mate 7 Single SIM
@@ -523,31 +555,31 @@ VKY-L29:
   model_name: HUAWEI P10 Plus Dual SIM
   name: HUAWEI P10 Plus
 VNS-L21:
-  codename: ''
+  codename: venus
   model_name: HUAWEI P9 lite
   name: HUAWEI P9 lite
 VNS-L22:
-  codename: ''
+  codename: venus
   model_name: HUAWEI P9 lite
   name: HUAWEI P9 lite
 VNS-L23:
-  codename: ''
+  codename: venus
   model_name: HUAWEI P9 lite
   name: HUAWEI P9 lite
 VNS-L31:
-  codename: ''
+  codename: venus
   model_name: HUAWEI P9 lite
   name: HUAWEI P9 lite
 VNS-L52:
-  codename: ''
+  codename: venus
   model_name: HUAWEI P9 lite
   name: HUAWEI P9 lite
 VNS-L53:
-  codename: ''
+  codename: venus
   model_name: HUAWEI P9 lite
   name: HUAWEI P9 lite
 VNS-L62:
-  codename: ''
+  codename: venus
   model_name: HUAWEI P9 lite
   name: HUAWEI P9 lite
 VOG-L09:

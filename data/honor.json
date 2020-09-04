@@ -439,6 +439,11 @@
   "name": "荣耀 3X",
   "model_name": "荣耀 3X 联通版"
  },
+ "G750-C00": {
+  "codename": "",
+  "name": "荣耀 3X",
+  "model_name": "荣耀 3X 电信版"
+ },
  "G750-T20": {
   "codename": "",
   "name": "荣耀 3X",
@@ -480,6 +485,16 @@
   "model_name": "荣耀畅玩 4X 移动渠道版 (2015)"
  },
  "CHE-TL00": {
+  "codename": "cherryplus",
+  "name": "荣耀畅玩 4X",
+  "model_name": "荣耀畅玩 4X 移动定制版 (2015)"
+ },
+ "CHE-TL10H": {
+  "codename": "cherryplus",
+  "name": "荣耀畅玩 4X",
+  "model_name": "荣耀畅玩 4X 移动渠道版 (2015)"
+ },
+ "CHE-TL10": {
   "codename": "cherryplus",
   "name": "荣耀畅玩 4X",
   "model_name": "荣耀畅玩 4X 移动定制版 (2015)"
@@ -863,6 +878,16 @@
   "codename": "scale",
   "name": "荣耀 4A",
   "model_name": "荣耀 4A 移动定制版"
+ },
+ "SCL-TL10": {
+  "codename": "scale",
+  "name": "荣耀 4A",
+  "model_name": "荣耀 4A 移动高配版"
+ },
+ "SCL-TL10H": {
+  "codename": "scale",
+  "name": "荣耀 4A",
+  "model_name": "荣耀 4A 移动渠道版"
  },
  "SCL-CL00": {
   "codename": "scale",

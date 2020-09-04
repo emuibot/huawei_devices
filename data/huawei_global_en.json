@@ -270,37 +270,37 @@
   "model_name": "HUAWEI P9 Plus Dual SIM"
  },
  "VNS-L21": {
-  "codename": "",
+  "codename": "venus",
   "name": "HUAWEI P9 lite",
   "model_name": "HUAWEI P9 lite"
  },
  "VNS-L22": {
-  "codename": "",
+  "codename": "venus",
   "name": "HUAWEI P9 lite",
   "model_name": "HUAWEI P9 lite"
  },
  "VNS-L23": {
-  "codename": "",
+  "codename": "venus",
   "name": "HUAWEI P9 lite",
   "model_name": "HUAWEI P9 lite"
  },
  "VNS-L31": {
-  "codename": "",
+  "codename": "venus",
   "name": "HUAWEI P9 lite",
   "model_name": "HUAWEI P9 lite"
  },
  "VNS-L52": {
-  "codename": "",
+  "codename": "venus",
   "name": "HUAWEI P9 lite",
   "model_name": "HUAWEI P9 lite"
  },
  "VNS-L53": {
-  "codename": "",
+  "codename": "venus",
   "name": "HUAWEI P9 lite",
   "model_name": "HUAWEI P9 lite"
  },
  "VNS-L62": {
-  "codename": "",
+  "codename": "venus",
   "name": "HUAWEI P9 lite",
   "model_name": "HUAWEI P9 lite"
  },
@@ -419,6 +419,11 @@
   "name": "HUAWEI P30 Pro",
   "model_name": "HUAWEI P30 Pro Dual SIM"
  },
+ "MAR-L21A": {
+  "codename": "marie",
+  "name": "HUAWEI P30 lite",
+  "model_name": "HUAWEI P30 lite"
+ },
  "MAR-LX1A": {
   "codename": "marie",
   "name": "HUAWEI P30 lite",
@@ -509,6 +514,11 @@
   "name": "HUAWEI nova 7 SE",
   "model_name": "HUAWEI nova 7 SE 5G"
  },
+ "FIG-L11": {
+  "codename": "figo",
+  "name": "HUAWEI P Smart",
+  "model_name": "HUAWEI P Smart"
+ },
  "FIG-LA1": {
   "codename": "figo",
   "name": "HUAWEI P Smart",
@@ -528,6 +538,11 @@
   "codename": "figo",
   "name": "HUAWEI P Smart",
   "model_name": "HUAWEI P Smart"
+ },
+ "INE-L22": {
+  "codename": "sydney",
+  "name": "HUAWEI P Smart+",
+  "model_name": "HUAWEI P Smart+"
  },
  "INE-LX1": {
   "codename": "sydneyi",
@@ -569,6 +584,21 @@
   "name": "HUAWEI P Smart Pro",
   "model_name": "HUAWEI P Smart Pro"
  },
+ "MRD-L41": {
+  "codename": "madrid",
+  "name": "HUAWEI Y6 2019",
+  "model_name": "HUAWEI Y6 2019"
+ },
+ "MRD-LX1F": {
+  "codename": "madrid",
+  "name": "HUAWEI Y6 2019",
+  "model_name": "HUAWEI Y6 2019"
+ },
+ "DUB-LX1": {
+  "codename": "dubai",
+  "name": "HUAWEI Y7 2019",
+  "model_name": "HUAWEI Y7 2019"
+ },
  "CAN-L01": {
   "codename": "cannes",
   "name": "HUAWEI nova",
@@ -600,32 +630,32 @@
   "model_name": "HUAWEI nova"
  },
  "MLA-L01": {
-  "codename": "",
+  "codename": "milan",
   "name": "HUAWEI nova Plus",
   "model_name": "HUAWEI nova Plus"
  },
  "MLA-L02": {
-  "codename": "",
+  "codename": "milan",
   "name": "HUAWEI nova Plus",
   "model_name": "HUAWEI nova Plus"
  },
  "MLA-L03": {
-  "codename": "",
+  "codename": "milan",
   "name": "HUAWEI nova Plus",
   "model_name": "HUAWEI nova Plus"
  },
  "MLA-L11": {
-  "codename": "",
+  "codename": "milan",
   "name": "HUAWEI nova Plus",
   "model_name": "HUAWEI nova Plus"
  },
  "MLA-L12": {
-  "codename": "",
+  "codename": "milan",
   "name": "HUAWEI nova Plus",
   "model_name": "HUAWEI nova Plus"
  },
  "MLA-L13": {
-  "codename": "",
+  "codename": "milan",
   "name": "HUAWEI nova Plus",
   "model_name": "HUAWEI nova Plus"
  },
@@ -748,5 +778,15 @@
   "codename": "yale",
   "name": "HUAWEI nova 5T",
   "model_name": "HUAWEI nova 5T Pro"
+ },
+ "CHC-U01": {
+  "codename": "",
+  "name": "Huawei G Play Mini",
+  "model_name": "Huawei G Play Mini (2015)"
+ },
+ "AMN-LX9": {
+  "codename": "",
+  "name": "Huawei Y5",
+  "model_name": "Huawei Y5 (2019)"
  }
 }

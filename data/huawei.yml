@@ -254,6 +254,10 @@ C199:
   codename: ''
   model_name: 华为麦芒 C199
   name: 华为麦芒 C199
+C199-CL00:
+  codename: ''
+  model_name: 华为麦芒 C199 电信版
+  name: 华为麦芒 C199
 C199s:
   codename: ''
   model_name: 华为麦芒 3S
@@ -581,6 +585,18 @@ G7-TL00:
 G7-UL00:
   codename: ''
   model_name: 华为 Ascend G7 联通版
+  name: 华为 Ascend G7
+G7-UL20:
+  codename: ''
+  model_name: 华为 Ascend G7 双 4G 版
+  name: 华为 Ascend G7
+G760-TL00:
+  codename: ''
+  model_name: 华为 Ascend G7 移动版
+  name: 华为 Ascend G7
+G760-UL20:
+  codename: ''
+  model_name: 华为 Ascend G7 双 4G 版
   name: 华为 Ascend G7
 GLK-AL00:
   codename: ''
@@ -939,15 +955,15 @@ MLA-AL10:
   model_name: HUAWEI 麦芒 5 全网通高配版
   name: HUAWEI 麦芒 5
 MLA-TL00:
-  codename: ''
+  codename: milan
   model_name: HUAWEI G9 Plus 移动 4G 版
   name: HUAWEI G9 Plus
 MLA-TL10:
-  codename: ''
+  codename: milan
   model_name: HUAWEI G9 Plus 移动全网通版
   name: HUAWEI G9 Plus
 MLA-UL00:
-  codename: ''
+  codename: milan
   model_name: HUAWEI G9 Plus 双 4G 版
   name: HUAWEI G9 Plus
 MON-AL19:
@@ -1483,19 +1499,19 @@ VKY-TL00:
   model_name: HUAWEI P10 Plus 移动 4G+ 版
   name: HUAWEI P10 Plus
 VNS-AL00:
-  codename: ''
+  codename: venus
   model_name: HUAWEI G9 青春版 全网通版
   name: HUAWEI G9 青春版
 VNS-CL00:
-  codename: ''
+  codename: venus
   model_name: HUAWEI G9 青春版 电信版
   name: HUAWEI G9 青春版
 VNS-DL00:
-  codename: ''
+  codename: venus
   model_name: HUAWEI G9 青春版 双 4G 版
   name: HUAWEI G9 青春版
 VNS-TL00:
-  codename: ''
+  codename: venus
   model_name: HUAWEI G9 青春版 移动版
   name: HUAWEI G9 青春版
 VOG-AL00:

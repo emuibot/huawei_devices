@@ -290,6 +290,14 @@ CHE-TL00H:
   codename: cherryplus
   model_name: 荣耀畅玩 4X 移动渠道版 (2015)
   name: 荣耀畅玩 4X
+CHE-TL10:
+  codename: cherryplus
+  model_name: 荣耀畅玩 4X 移动定制版 (2015)
+  name: 荣耀畅玩 4X
+CHE-TL10H:
+  codename: cherryplus
+  model_name: 荣耀畅玩 4X 移动渠道版 (2015)
+  name: 荣耀畅玩 4X
 CHM-CL00:
   codename: cherrymini
   model_name: 荣耀畅玩 4C 电信版
@@ -438,6 +446,10 @@ G621-TL00M:
   codename: ''
   model_name: 荣耀畅玩 4 移动渠道版
   name: 荣耀畅玩 4
+G750-C00:
+  codename: ''
+  model_name: 荣耀 3X 电信版
+  name: 荣耀 3X
 G750-T00:
   codename: ''
   model_name: 荣耀 3X 双 3G 版
@@ -1051,6 +1063,14 @@ SCL-TL00:
   model_name: 荣耀 4A 移动定制版
   name: 荣耀 4A
 SCL-TL00H:
+  codename: scale
+  model_name: 荣耀 4A 移动渠道版
+  name: 荣耀 4A
+SCL-TL10:
+  codename: scale
+  model_name: 荣耀 4A 移动高配版
+  name: 荣耀 4A
+SCL-TL10H:
   codename: scale
   model_name: 荣耀 4A 移动渠道版
   name: 荣耀 4A
